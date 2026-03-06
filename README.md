@@ -43,7 +43,7 @@ AnimatedOpacity(
 
 ## Screenshot
 
-![App UI](screenshots/ui.png)
+![App UI](screenshots/demoscreenshot.PNG)
 
 ---
 
@@ -51,7 +51,8 @@ AnimatedOpacity(
 
 ```
 lib/
-  main.dart       # entire app — MyApp, MyHomePage, _MyHomePageState
+  main.dart              # entire app — MyApp, MyHomePage, _MyHomePageState
 screenshots/
-  ui.png          # final UI screenshot
+  demoscreenshot.PNG    # app UI showing the card visible
+  demoscreenshot2.PNG   # app UI showing the card hidden
 ```
